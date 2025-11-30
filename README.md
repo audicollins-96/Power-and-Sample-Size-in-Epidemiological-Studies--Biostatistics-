@@ -1,4 +1,4 @@
-# Sample Size Exploration
+# Sample Size Determination
 
 This repository contains my **sample size determination** steps across a variety of epidemiological study scenarios, including continuous outcomes, proportions, and case–control studies.
 
