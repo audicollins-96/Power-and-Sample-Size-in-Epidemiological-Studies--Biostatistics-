@@ -1,6 +1,6 @@
 # Sample Size Determination
 
-This repository contains my **sample size determination** steps across a variety of epidemiological study scenarios, including continuous outcomes, proportions, and case–control studies.
+This repository contains my **sample size determination** steps using R Statistical Software across a variety of epidemiological study scenarios, including continuous outcomes, proportions, and case–control studies.
 
 ---
 
